@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex05.CheckersLogic", "Ex05.CheckersLogic\Ex05.CheckersLogic.csproj", "{F97032AD-661E-4474-98D3-5C7465C21A4F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex05.CheckersApp", "Ex05.CheckersApp\Ex05.CheckersApp.csproj", "{6E0F599E-CD0E-4383-B166-FC9384CDD282}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{523112E1-5227-48EC-B47B-86F4BF9D9208}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+		Excercise_Checking_Report.txt = Excercise_Checking_Report.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F97032AD-661E-4474-98D3-5C7465C21A4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F97032AD-661E-4474-98D3-5C7465C21A4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F97032AD-661E-4474-98D3-5C7465C21A4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F97032AD-661E-4474-98D3-5C7465C21A4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E0F599E-CD0E-4383-B166-FC9384CDD282}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E0F599E-CD0E-4383-B166-FC9384CDD282}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E0F599E-CD0E-4383-B166-FC9384CDD282}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E0F599E-CD0E-4383-B166-FC9384CDD282}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04EE7A7C-17A1-4308-94C8-EA12B0CCEE8A}
+	EndGlobalSection
+EndGlobal
